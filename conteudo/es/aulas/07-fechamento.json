@@ -336,7 +336,11 @@
       "titulo": "Para ir más allá",
       "links": [
         {
-          "t": "Formación Mentor de IA, en el área Profesional 2030",
+          "t": "Formación Mentor de IA: cómo conducir los 90 días",
+          "href": "https://inematds.github.io/prof2030-mentor/"
+        },
+        {
+          "t": "Área Profesional 2030: los cuatro roles",
           "href": "https://eventos.inema.pro/prof2030/"
         }
       ]

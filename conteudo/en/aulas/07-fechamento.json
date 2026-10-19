@@ -336,7 +336,11 @@
       "titulo": "Going further",
       "links": [
         {
-          "t": "AI Mentor Program, in the Professional 2030 area",
+          "t": "AI Mentor Program: how to lead the 90 days",
+          "href": "https://inematds.github.io/prof2030-mentor/"
+        },
+        {
+          "t": "Professional 2030 Area: the four roles",
           "href": "https://eventos.inema.pro/prof2030/"
         }
       ]

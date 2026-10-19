@@ -60,5 +60,5 @@ Ensina, da fonte 4.1 + prof2030: pauta, recapitular com as palavras dele, proble
 
 ## Decisões
 - Personagem genérico (dono de transportadora, como na fonte), sem usar a empresa-laboratório: o diagnóstico de vendas não precisa das falhas simuladas do lab.
-- Mentor: `prof2030-mentor` respondeu 404 em 19/10 → os links vão para a área prof2030.
+- Mentor: `prof2030-mentor` respondeu 404 no início e 200 na publicação (19/10) → as aulas 7 e 8 linkam a formação Mentor e a área prof2030; o `lado_card` aponta para a área.
 - `lado_card` sem "próximo curso": aponta para a área Profissional 2030 como continuação.
